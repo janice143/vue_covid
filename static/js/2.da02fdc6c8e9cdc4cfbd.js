@@ -1,0 +1,2 @@
+webpackJsonp([2],{"7V33":function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var i={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var t=this.$createElement,e=this._self._c||t;return e("div",[e("img",{attrs:{width:"100%",src:n("JbSe"),alt:""}})])}]};var r=n("VU/8")({},i,!1,function(t){n("BajA")},"data-v-40496cbb",null);e.default=r.exports},BajA:function(t,e){},JbSe:function(t,e,n){t.exports=n.p+"static/img/hesuan.0b87cb4.jpg"}});
+//# sourceMappingURL=2.da02fdc6c8e9cdc4cfbd.js.map
